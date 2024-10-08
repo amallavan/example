@@ -1,0 +1,2 @@
+a="sasi"
+print(a[-2])
